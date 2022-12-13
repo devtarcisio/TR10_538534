@@ -37,7 +37,7 @@ int main()
     w = 0; // w recebe 0
     printf("Números Digitados: \n");
     while (y <= i)
-    { // repetiá enquanto y for menor ou igual a i desse ponto
+    { // repetirá enquanto y for menor ou igual a i desse ponto
         if ((x[w] >> (y - (32 * w))) & 1)
             printf("%d\n", y); // verificar se já existe um bit na posição desejada,
         //caso afirmativo, ele printa quantas vezes o y andou para chegar lá
