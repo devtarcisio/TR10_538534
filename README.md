@@ -1,4 +1,4 @@
-# TR10_538534-
+# TR10_538534
 
 O código objetiva guardar números com posições bit a bit de uma variável inteira, este é exemplo de como pode ser utilizado.
 
